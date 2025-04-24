@@ -1,9 +1,9 @@
 
-# 📊 Klasifikasi Kelayakan Kredit Komputer dengan Decision Tree
+# Klasifikasi Kelayakan Kredit Komputer dengan Decision Tree
 
 ---
 
-## 🔍 Tahapan Pengerjaan
+## Tahapan Pengerjaan
 
 ### 1. Import Library
 import library yang dibutuhkan:
